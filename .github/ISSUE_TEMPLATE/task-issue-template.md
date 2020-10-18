@@ -1,7 +1,7 @@
 ---
 name: Task issue template
 about: Descrição das tarefas.
-title: "[TASK]"
+title: ":hammer: [TASK] | "
 labels: ''
 assignees: ''
 
